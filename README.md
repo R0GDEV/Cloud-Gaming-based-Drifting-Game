@@ -1,7 +1,7 @@
 
 
 # Cloud-Gaming-based-Drifting-Game
-The objectives for creating a <H1><b>“Cloud-Gaming-based-Drifting-Game”</b></h1> game accessible on any browser and operating system typically revolve around user experience, accessibility, and technical implementation. Here are key objectives for such a project.
+The objectives for creating a <u>“Cloud-Gaming-based-Drifting-Game”</u> game accessible on any browser and operating system typically revolve around user experience, accessibility, and technical implementation. Here are key objectives for such a project.
 
 ![Screenshot (105)](https://github.com/user-attachments/assets/080fe429-5e23-4796-92de-0909db76406e)
 ![Screenshot (104)](https://github.com/user-attachments/assets/257bfb70-d0a6-4865-bf11-0b8a79219ca3)

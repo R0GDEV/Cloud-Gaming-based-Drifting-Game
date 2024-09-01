@@ -27,8 +27,10 @@ Based On Select Level Game while Load:
 
 Reach the Fishing Line for Complete The Level:
 
+![Design 3](https://github.com/user-attachments/assets/a5c9268c-debf-4f6b-9928-0d615dab7ba7)
+
  If Complete The Race In Time See This Screen
-![Screenshot (112)](https://github.com/user-attachments/assets/fb89937f-9336-4658-aa54-ca5e2865452e)
+
 
 Else Display This Screen:
 
